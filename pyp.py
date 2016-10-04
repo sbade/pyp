@@ -205,5 +205,3 @@ if __name__ == "__main__":
     if _numErrors:
         sys.exit(_numErrors)
 
-def coolFn():
-    return 42
